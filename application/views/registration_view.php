@@ -7,7 +7,7 @@
     <title>Dextrous::Registration</title>
     
     <!-- Styles -->
-                    <?php $this->load->view('includes/default_css'); ?>
+    <?php $this->load->view('includes/default_css'); ?>
 
 
   </head>
